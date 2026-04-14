@@ -23,7 +23,7 @@ jobs:
           github_user_name: TTPzZ
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=orange
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#32CD32
+            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#161b22,#4a1c40,#8c275f,#d93874,#f56296
 
       - name: Push the output to a new branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
