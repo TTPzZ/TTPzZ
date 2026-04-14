@@ -53,8 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/><br/>
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=TTPzZ&icon=0&color=0" alt="Visitor Count"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TTPzZ&color=2196F3&style=flat-square&label=Profile+views" alt="Visitor Count" />
 </p>
 
 </div>
