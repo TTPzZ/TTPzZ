@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chào mừng đến với không gian của Phuc 👋
+# Welcome to Phuc's space 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-stack+%26+IoT+Developer;Instructor+of+Robot,+Python,+Game+Maker;Building+Hermit-Home+%26+Smart+Systems" alt="Typing SVG" />
@@ -16,16 +16,16 @@
 
 ---
 
-### 💻 Công Nghệ Cốt Lõi
+<br/>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,flutter,mongodb,vercel,firebase,c,cpp,arduino,react,nextjs,nestjs,git,github,docker,figma&perline=8" alt="Tech Stack"/>
 </a>
 
----
+<br/>
+<br/>
 
-### 🏆 Thành Tích & Thống Kê
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=TTPzZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/> -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=TTPzZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/TTPzZ)
+---
 
 <br/>
 
@@ -39,13 +39,16 @@
 <img src="https://streak-stats.demolab.com/?user=TTPzZ&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 <br/>
+<br/>
 
-### 🐍 Quá trình "Cày cuốc"
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTPzZ/TTPzZ/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTPzZ/TTPzZ/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TTPzZ/TTPzZ/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br/>
+<br/>
 
 ---
 
