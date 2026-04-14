@@ -2,10 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    # Tự động chạy mỗi 24 giờ
     - cron: "0 0 * * *"
-  # Cho phép chạy thủ công
   workflow_dispatch:
+
+# Khai báo rõ ràng quyền được phép ghi đè file lên repository
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -13,17 +15,16 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Tạo animation
       - name: Generate the snake animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3  # Nâng cấp lên v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          # Cố định luôn tên tài khoản của thầy, bỏ qua việc dùng biến
+          github_user_name: TTPzZ
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Đẩy file SVG lên branch output
       - name: Push the output to a new branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
