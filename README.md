@@ -24,7 +24,8 @@
 ---
 
 ### 🏆 Thành Tích & Thống Kê
-<img src="https://github-profile-trophy.vercel.app/?username=TTPzZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=TTPzZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/> -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=TTPzZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/TTPzZ)
 
 <br/>
 
